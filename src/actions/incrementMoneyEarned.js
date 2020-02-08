@@ -1,4 +1,4 @@
-import { INCREMENT_MONEY_EARNED } from "./constants/constants.js";
+import { INCREMENT_MONEY_EARNED } from "../constants/constants";
 
 const incrementMoneyEarned = amount => {
   return {

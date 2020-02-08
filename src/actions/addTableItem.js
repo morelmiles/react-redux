@@ -1,4 +1,4 @@
-import { ADD_TABLE_ITEM } from "./constants/constants.js";
+import { ADD_TABLE_ITEM } from "../constants/constants";
 
 const addTableItem = (name, price, id) => {
   return {

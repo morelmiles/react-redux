@@ -5,7 +5,7 @@ import {
   DELETE_TABLE_ITEM,
   INCREMENT_MONEY_EARNED,
   SELECT_TABLE
-} from "./constants/constants.js";
+} from "../constants/constants";
 
 var initialTableData = [];
 

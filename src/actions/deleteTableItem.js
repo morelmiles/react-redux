@@ -1,4 +1,4 @@
-import { DELETE_TABLE_ITEM } from "./constants/constants.js";
+import { DELETE_TABLE_ITEM } from "../constants/constants";
 
 const deleteTableItem = (tableId, id) => {
   return {

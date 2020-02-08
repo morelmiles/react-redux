@@ -1,4 +1,4 @@
-import { SELECT_TABLE } from "./constants/constants";
+import { SELECT_TABLE } from "../constants/constants";
 
 const selectTable = id => {
   return {
